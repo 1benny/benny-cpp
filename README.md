@@ -1,4 +1,4 @@
-# bdives-cpp
+# benny-cpp
 
 ## Important info
 
